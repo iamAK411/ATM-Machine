@@ -1,6 +1,5 @@
 package Ashish;
 
-//import java.util.*;
 import java.util.Scanner;
 
 public class Ashu
